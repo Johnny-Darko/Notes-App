@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.note{
+    border: solid 1px black;
+}
